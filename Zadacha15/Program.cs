@@ -12,17 +12,17 @@ namespace ConsoleApp
 
             void Number_week(int n_w)
             { 
-                while(number<1 || number>7)
+                while(n_w<1 || n_w>7)
                 {
                     Console.WriteLine("Пожалуйста, введите день недели: ");
-                    number = Convert.ToInt32(Console.ReadLine()); 
+                    n_w = Convert.ToInt32(Console.ReadLine()); 
                 }
 
-                if (number == 6 || number == 7 )
+                if (n_w == 6 || n_w == 7 )
                 {
                 Console.WriteLine("Выходной"); 
                 }
-                else if (number > 0 && number < 6 )
+                else if (n_w > 0 && n_w < 6 )
                 {
                 Console.WriteLine("Рабочий"); 
                 }
