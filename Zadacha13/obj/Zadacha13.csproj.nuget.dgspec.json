@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grish\\OneDrive\\Desktop\\seminar_C_2\\Seminar_2\\Zadacha13\\Zadacha13.csproj": {}
+    "C:\\Users\\Image\\Desktop\\C#\\Seminar2_C-\\Zadacha13\\Zadacha13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grish\\OneDrive\\Desktop\\seminar_C_2\\Seminar_2\\Zadacha13\\Zadacha13.csproj": {
+    "C:\\Users\\Image\\Desktop\\C#\\Seminar2_C-\\Zadacha13\\Zadacha13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grish\\OneDrive\\Desktop\\seminar_C_2\\Seminar_2\\Zadacha13\\Zadacha13.csproj",
+        "projectUniqueName": "C:\\Users\\Image\\Desktop\\C#\\Seminar2_C-\\Zadacha13\\Zadacha13.csproj",
         "projectName": "Zadacha13",
-        "projectPath": "C:\\Users\\grish\\OneDrive\\Desktop\\seminar_C_2\\Seminar_2\\Zadacha13\\Zadacha13.csproj",
-        "packagesPath": "C:\\Users\\grish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grish\\OneDrive\\Desktop\\seminar_C_2\\Seminar_2\\Zadacha13\\obj\\",
+        "projectPath": "C:\\Users\\Image\\Desktop\\C#\\Seminar2_C-\\Zadacha13\\Zadacha13.csproj",
+        "packagesPath": "C:\\Users\\Image\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Image\\Desktop\\C#\\Seminar2_C-\\Zadacha13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\grish\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Image\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
