@@ -14,17 +14,17 @@ namespace ConsoleApp
 
             void num_3(string number)
             {
-                bool a = int.TryParse(number_string, out int num);
+                bool a = int.TryParse(number, out int num);
                 if (a)
                 {
-                    if (number_string.Length < 3)
+                    if (number.Length < 3)
                     {
                         Console.WriteLine("Третьего числа нет");
 
                     }
                     else
                     {
-                        char[] b = {number_string[2]};
+                        char[] b = {number[2]};
                         Console.WriteLine(b);
                     }
                 
